@@ -17,7 +17,7 @@ int control()
     {
         if (status != 1)
             scanf("%*s"); //处理非整数输入
-        printf("Enter an integer from 1to 6,please.\n");
+        printf("Enter an integer from 1to 7,please.\n");
     }
     return code;
 }
